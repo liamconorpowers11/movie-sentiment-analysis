@@ -1,3 +1,5 @@
+Task: LSTM for Movie Review Sentiment Classification
+
 Packages: Pandas, NLTK, Scikit-Learn 
 
 Model: TF-IDF + Logistical Regression
